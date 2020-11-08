@@ -18,17 +18,17 @@ body, html {
 }
 
 .pimg1{
-    background-image: url('./img/image1.svg');
+    background-image: url('../img/image1.svg');
     min-height: 100%;
 }
 
 .pimg2{
-    background-image: url('./img/image2.svg');
+    background-image: url('../img/image2.svg');
     min-height: 400px;
 }
 
 .pimg3{
-    background-image: url('./img/image3.svg');
+    background-image: url('../img/image3.svg');
     min-height: 400px;
 }
 
