@@ -4,4 +4,4 @@ In this project I can learned about how create a website using parallax effect, 
 
 You can check out by this link bellow:
 
-
+https://henryfy.github.io/parallax.github.io/
